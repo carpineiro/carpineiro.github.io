@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Carpineiro
+title: Blog do Carpineiro
 email: carpineiro@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sou carpineiro profissional e entusiasta de Bitcoin, 
-  aplicativos descentralizados, aprendizado profundo e blockchain. 
+  Capinador/carpidor profissional e entusiasta de Bitcoin, 
+  apps descentralizados, aprendizado profundo e blockchain. 
   E no meu tempo livre, desenvolvedor fullstack.
-twitter_username: ecarpineiro
+twitter_username: carpineiro
 github_username: carpineiro
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -31,8 +31,9 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-locale: pt-BR
+timezone: "America/Sao_Paulo"  # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+locale: "pt-BR"
+
 include:
   - _pages
 
@@ -58,28 +59,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-name   : "Ephigênio Carpineiro"
+  name   : "Efigênio Carpineiro"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Sou carpineiro profissional e entusiasta de Bitcoin, apps descentralizados, aprendizado profundo e blockchain. E nas horas vagas, desenvolvedor fullstack."
+  bio    : "Capinador profissional e entusiasta de Bitcoin, apps descentralizados, aprendizado profundo e blockchain. E no meu tempo livre, desenvolvedor fullstack."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://carpineiro.github.io/"
+      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ecarpineiro"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/carpineiro"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ecarpineiro"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/carpineiro"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
