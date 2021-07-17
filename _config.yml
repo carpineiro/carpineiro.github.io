@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: pt
-title: Blog do Carpineiro
+title: Ô carpineiro
 email: carpineiro@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
   Capinador/carpidor profissional e entusiasta de Bitcoin, 

@@ -3,6 +3,12 @@ permalink: /about/
 title: "Sobre"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+![Ô carpineiro](/assets/images/ocapi.jpeg)
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Ói, não sou bom de falar de mim mesmo! Mas uma coisa eu tenho certeza, aqui se encontra um sonhador, pensador, otimista, capinador, libertário que preza pela privacidade e liberdade. 
+
+Embora o pseudônimo, ao fundo, é **tudo verdade**. De fato, sou o capinador, carpidor, capineiro, carpineiro, tanto faz... sou aquele que carpi o lote. 
+
+Carpir, trata-se de tirar o mato, a sujeira, tudo que faz parte do velho e preparar a terra para o novo. Nessa atual realidade, em que novas tecnologias brotam a todo momento, **carpir** o terreno da sua mente, jogar fora o velho e cultivar o novo me parece algo muito importante. 
+
+Ô **developer carpineiro** não pensa duas vezes em arregaçar as mangas e jogar fora anos de desenvolvimento de um projeto utilizando uma determinada tecnologia e reimplementá-la utilizando novas e melhores práticas. 
